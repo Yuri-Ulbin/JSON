@@ -1,6 +1,6 @@
 {
     "Bug title" : "Application crash on clicking the SAVE button while creating a new user.",
-    "Bug Id" : "1",
+    "Bug Id" : 1,
     "Build number" : "Version Number 5.0.1",
     "Environment" : "Windows 10, Chrome 31.0.1650.63m",
     "Severity" : "S1 Blocker",
